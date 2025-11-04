@@ -1,0 +1,5 @@
+{
+  "name": "Minimal Metronome",
+  "description": "An elegant and minimal metronome application built with React, TypeScript, and Tone.js. Adjust tempo, volume, rhythm patterns, and beat tones with a beautiful Morandi-inspired UI. Accentuate the first beat to master complex rhythms.",
+  "requestFramePermissions": []
+}
